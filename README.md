@@ -1,2 +1,2 @@
-# projeto_alura
-Projeto Alura+
+# Projeto Alura
+<p>Projeto com os cursos da Alura<p>
